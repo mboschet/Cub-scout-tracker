@@ -1,0 +1,115 @@
+<resources>
+    <string name="app_name">Cub Scout Weekly Tracker</string>
+    <string name="packText">Pack</string>
+    <string name="childName">Jane Dow</string>
+    <string name="dateText">01/01/1999</string>
+    <string name="attendanceText">Attendance</string>
+    <string name="bookText">Scout Has Book</string>
+    <string name="uniformText">Has Uniform On</string>
+    <string name="parentText">Has Parent With Them</string>
+    <string name="backButtonText">Back</string>
+    <string name="nextButtonText">Next</string>
+    <string name="fNameText">First Name</string>
+    <string name="lNameText">Last Name</string>
+    <string name="bDayText">Berth Day</string>
+    <string name="packPText">Add to Den</string>
+    <string name="newChildText">Add Child</string>
+    <string name="exitButtonText">Exit</string>
+    <string name="genderText">Gender</string>
+    <string name="newScoutButton">New Scout</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="packNumber">Pack #</string>
+    <string name="settingsMenu">Settings</string>
+    <string name="aboutMenu">About</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">General</string>
+
+    <string name="pref_title_social_recommendations">Enable social recommendations</string>
+    <string name="pref_description_social_recommendations">Recommendations for people to contact
+        based on your message history
+    </string>
+
+    <string name="pref_title_display_name">Display name</string>
+    <string name="pref_default_display_name">John Smith</string>
+
+    <string name="pref_title_add_friends_to_messages">Add friends to messages</string>
+    <string-array name="pref_example_list_titles">
+        <item>Always</item>
+        <item>When possible</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_example_list_values">
+        <item>1</item>
+        <item>0</item>
+        <item>-1</item>
+    </string-array>
+
+    <!-- Example settings for Data & Sync -->
+    <string name="pref_header_data_sync">Data &amp; sync</string>
+
+    <string name="pref_title_sync_frequency">Sync frequency</string>
+    <string-array name="pref_sync_frequency_titles">
+        <item>15 minutes</item>
+        <item>30 minutes</item>
+        <item>1 hour</item>
+        <item>3 hours</item>
+        <item>6 hours</item>
+        <item>Never</item>
+    </string-array>
+    <string-array name="pref_sync_frequency_values">
+        <item>15</item>
+        <item>30</item>
+        <item>60</item>
+        <item>180</item>
+        <item>360</item>
+        <item>-1</item>
+    </string-array>
+
+    <string-array name="list_preference_entries">
+        <item>Entry 1</item>
+        <item>Entry 2</item>
+        <item>Entry 3</item>
+    </string-array>
+
+    <string-array name="list_preference_entry_values">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+    </string-array>
+
+    <string-array name="multi_select_list_preference_default_value" />
+
+    <string name="pref_title_system_sync_settings">System sync settings</string>
+
+    <!-- Example settings for Notifications -->
+    <string name="pref_header_notifications">Notifications</string>
+
+    <string name="pref_title_new_message_notifications">New message notifications</string>
+
+    <string name="pref_title_ringtone">Ringtone</string>
+    <string name="pref_ringtone_silent">Silent</string>
+
+    <string name="pref_title_vibrate">Vibrate</string>
+    <string name="aboutTextView">Welcome to the weekly Scout tracker appliciton.
+        This was written by Matthew Boschet commitee charman of pack 3767 Warsaw, IN.</string>
+    <string name="savedPackNumber" />
+    <string name="scoutId">#</string>
+    <string name="fName">First Name</string>
+    <string name="lastName">Last Name</string>
+    <string name="menuScoutTable">Scout Table</string>
+    <string name="bDayTextTable">Birthday</string>
+    <string name="tableDenText">Den</string>
+    <string name="tabelGenderText">Gender</string>
+    <string name="tableAttendiceText">Attendance</string>
+    <string name="tableBookText">Book</string>
+    <string name="tabelUniformText">Uniform</string>
+    <string name="tabelParentText">Parent</string>
+    <string name="birthdayButtonText">Birthday</string>
+
+</resources>

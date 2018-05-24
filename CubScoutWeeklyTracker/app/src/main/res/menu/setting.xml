@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/settings"
+        android:title="@string/settingsMenu" />
+    <item
+        android:id="@+id/scoutTable"
+        android:title="@string/menuScoutTable" />
+    <item
+        android:id="@+id/About"
+        android:title="@string/aboutMenu" />
+</menu>

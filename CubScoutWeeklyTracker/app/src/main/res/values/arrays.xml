@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="denPick">
+        <item>Lion Boy</item>
+        <item>Lion Girl</item>
+        <item>Tiger Boy</item>
+        <item>Tiger Girl</item>
+        <item>Wolf Boy</item>
+        <item>Wolf Girl</item>
+        <item>Bear Boy</item>
+        <item>Bear Girl</item>
+        <item>Webelos Boy</item>
+        <item>Webelos Girl</item>
+    </string-array>
+    <string-array name="genderPick">
+        <item>Boy</item>
+        <item>Girl</item>
+    </string-array>
+</resources>
